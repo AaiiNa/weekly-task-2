@@ -1,0 +1,70 @@
+.main{
+  margin:100px;
+}
+
+
+p{
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+   font-size:13px;
+ }
+ h4{
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+   color:#1a73e8;
+   font-size:16px;
+ }
+ .btn{
+   color:#1a73e8;
+   padding: 9px 13px;
+
+   font-size:13px;
+   border:1px solid lightgray;
+ }
+ .btn:hover {
+   background-color:#bccce0;
+   
+ }
+ .btn-2{
+    
+  color: white;
+  background-color: #1a73e8;
+  padding: 14px 0px;
+  font-size: 13px;
+  border: none;
+  border-radius: 5px;
+  width: 9em;
+ }
+
+ .btn-2:hover{
+     background-color:#1a65c8;
+ }
+ 
+
+.button{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2em;
+  margin-top: 3em;
+  margin-right: 37em;
+
+  }
+
+ input{
+  padding:10px;
+  margin:4px;
+  display:inline-block;
+  width:15em;
+
+}
+.side-picture {
+  display: flex;
+  margin: 1e;
+  margin: -18em 0em 0em 27em;
+}
+figcaption{
+  font-weight: -1em;
+}
+
+#email{
+  padding: 10px 129px;
+  text-align: left;
+}
